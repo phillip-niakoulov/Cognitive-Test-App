@@ -1,0 +1,6 @@
+Run Main in CorsiBlock to run the Corsi Block-Tapping Test. It will output a log.csv file.
+Run Main in DigitSpan to run the Digit Span Test. It will also output a similarly formatted log.csv file.
+Run Main in jsonMqtt to run applet which stores mqtt data from "javiergs/emotiv/bcidata".
+Run parseCSV.py to convert mqtt data to csv format (file must be edited to work properly)
+
+Currently collected data is stored in Data
