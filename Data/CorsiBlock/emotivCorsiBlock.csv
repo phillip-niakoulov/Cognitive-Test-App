@@ -5226,8 +5226,6 @@
 {"Type":"EEG","Counter":100,"T7":4371.282,"T8":4144.615,"Time":1.7400957665246E9,"Pz":4231.795,"Contact Quality":450,"Interpolated":false,"AF3":4160,"AF4":4170.256}
 {"Type":"EEG","Counter":101,"T7":4369.231,"T8":4142.051,"Time":1.7400957665326E9,"Pz":4232.308,"Contact Quality":450,"Interpolated":false,"AF3":4145.128,"AF4":4144.103}
 {"Type":"FACE","powerUpperFace":0.055592,"actionEye":"neutral","actionUpperFace":"frown","time":1.740095766612E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
-{"Active Interest":"false","Time":"1740095766.6439","Active Relaxation":"false","Timestamp":"2025-02-20 15:56:06.643","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400957666439E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400957666439E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":86,"time":1.7400957666519E9,"qualityPerSensor":[0,2,4,0,0],"batteryLevel":4}
 {"Type":"FACE","powerUpperFace":0.053404,"actionEye":"neutral","actionUpperFace":"frown","time":1.7400957666439E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
 {"Type":"EEG","Counter":102,"T7":4367.179,"T8":4163.077,"Time":1.7400957665404E9,"Pz":4255.897,"Contact Quality":450,"Interpolated":false,"AF3":4158.462,"AF4":4154.872}
@@ -5305,8 +5303,6 @@
 {"Type":"EEG","Counter":33,"T7":4242.051,"T8":4087.179,"Time":1.7400957670068E9,"Pz":4234.359,"Contact Quality":0,"Interpolated":false,"AF3":4102.564,"AF4":4086.667}
 {"Type":"FACE","powerUpperFace":0.041449,"actionEye":"neutral","actionUpperFace":"frown","time":1.7400957670852E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
 {"Type":"FACE","powerUpperFace":0.041449,"actionEye":"neutral","actionUpperFace":"frown","time":1.7400957671163E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
-{"Active Interest":"false","Time":"1740095767.1478","Active Relaxation":"false","Timestamp":"2025-02-20 15:56:07.147","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400957671478E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400957671478E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":86,"time":1.7400957671478E9,"qualityPerSensor":[0,2,4,0,0],"batteryLevel":4}
 {"Type":"EEG","Counter":34,"T7":4246.154,"T8":4096.923,"Time":1.7400957670146E9,"Pz":4234.359,"Contact Quality":0,"Interpolated":false,"AF3":4111.282,"AF4":4116.923}
 {"Type":"EEG","Counter":35,"T7":4237.949,"T8":4092.308,"Time":1.7400957670224E9,"Pz":4241.026,"Contact Quality":0,"Interpolated":false,"AF3":4114.359,"AF4":4131.282}
@@ -6219,8 +6215,6 @@
 {"Type":"EEG","Counter":97,"T7":3940.513,"T8":3963.59,"Time":1.7400957725519E9,"Pz":4191.795,"Contact Quality":450,"Interpolated":false,"AF3":3976.923,"AF4":3945.128}
 {"Type":"EEG","Counter":98,"T7":3952.821,"T8":3983.077,"Time":1.7400957725597E9,"Pz":4209.231,"Contact Quality":450,"Interpolated":false,"AF3":3986.667,"AF4":3967.179}
 {"Type":"FACE","powerUpperFace":0,"actionEye":"neutral","actionUpperFace":"neutral","time":1.7400957726614E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
-{"Active Interest":"false","Time":"1740095772.6928","Active Relaxation":"false","Timestamp":"2025-02-20 15:56:12.692","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400957726928E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400957726928E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":86,"time":1.7400957727007E9,"qualityPerSensor":[0,2,2,0,0],"batteryLevel":4}
 {"Type":"EEG","Counter":99,"T7":3965.128,"T8":3974.359,"Time":1.7400957725677E9,"Pz":4219.487,"Contact Quality":40,"Interpolated":false,"AF3":3981.026,"AF4":3960.513}
 {"Type":"EEG","Counter":100,"T7":3973.333,"T8":3957.436,"Time":1.7400957725755E9,"Pz":4232.308,"Contact Quality":450,"Interpolated":false,"AF3":3976.923,"AF4":3954.359}
@@ -6550,8 +6544,6 @@
 {"Type":"EEG","Counter":97,"T7":4125.128,"T8":3787.179,"Time":1.7400957745669E9,"Pz":4193.333,"Contact Quality":450,"Interpolated":false,"AF3":3839.487,"AF4":3733.333}
 {"Type":"FACE","powerUpperFace":0,"actionEye":"neutral","actionUpperFace":"neutral","time":1.7400957746461E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
 {"Type":"FACE","powerUpperFace":0,"actionEye":"neutral","actionUpperFace":"neutral","time":1.740095774678E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
-{"Active Interest":"false","Time":"1740095774.7095","Active Relaxation":"false","Timestamp":"2025-02-20 15:56:14.709","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400957747095E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400957747095E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":86,"time":1.7400957747095E9,"qualityPerSensor":[0,2,4,0,0],"batteryLevel":4}
 {"Type":"EEG","Counter":98,"T7":4094.359,"T8":3761.026,"Time":1.7400957745748E9,"Pz":4203.59,"Contact Quality":450,"Interpolated":false,"AF3":3802.051,"AF4":3704.615}
 {"Type":"EEG","Counter":99,"T7":4084.103,"T8":3756.923,"Time":1.7400957745828E9,"Pz":4203.077,"Contact Quality":9,"Interpolated":false,"AF3":3773.846,"AF4":3708.718}
@@ -7215,8 +7207,6 @@
 {"Type":"EEG","Counter":97,"T7":4652.308,"T8":3735.897,"Time":1.7400957786007E9,"Pz":4128.718,"Contact Quality":450,"Interpolated":false,"AF3":3795.897,"AF4":6447.692}
 {"Type":"EEG","Counter":98,"T7":4623.59,"T8":3736.41,"Time":1.7400957786087E9,"Pz":4069.231,"Contact Quality":450,"Interpolated":false,"AF3":3778.974,"AF4":6376.923}
 {"Type":"FACE","powerUpperFace":1,"actionEye":"neutral","actionUpperFace":"frown","time":1.7400957787113E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
-{"Active Interest":"false","Time":"1740095778.7428","Active Relaxation":"false","Timestamp":"2025-02-20 15:56:18.742","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400957787428E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400957787428E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":86,"time":1.7400957787508E9,"qualityPerSensor":[0,2,4,0,0],"batteryLevel":4}
 {"Type":"EEG","Counter":99,"T7":4562.051,"T8":3722.051,"Time":1.7400957786165E9,"Pz":4052.308,"Contact Quality":19,"Interpolated":false,"AF3":3727.179,"AF4":6241.026}
 {"Type":"EEG","Counter":100,"T7":4582.564,"T8":3737.949,"Time":1.7400957786243E9,"Pz":4071.795,"Contact Quality":450,"Interpolated":false,"AF3":3717.949,"AF4":6186.667}
@@ -7379,8 +7369,6 @@
 {"Type":"EEG","Counter":94,"T7":5200,"T8":4567.179,"Time":1.7400957795866E9,"Pz":4229.231,"Contact Quality":450,"Interpolated":false,"AF3":3895.897,"AF4":3928.205}
 {"Type":"EEG","Counter":95,"T7":5193.846,"T8":4570.256,"Time":1.7400957795945E9,"Pz":4235.385,"Contact Quality":12,"Interpolated":false,"AF3":3905.641,"AF4":3928.718}
 {"Type":"EEG","Counter":96,"T7":5232.821,"T8":4583.077,"Time":1.7400957796025E9,"Pz":4248.205,"Contact Quality":450,"Interpolated":false,"AF3":3931.795,"AF4":3956.923}
-{"Active Interest":"false","Time":"1740095779.7525","Active Relaxation":"false","Timestamp":"2025-02-20 15:56:19.752","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400957797525E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400957797525E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":86,"time":1.7400957797681E9,"qualityPerSensor":[0,2,4,0,0],"batteryLevel":4}
 {"Type":"EEG","Counter":97,"T7":5280,"T8":4602.564,"Time":1.7400957796105E9,"Pz":4251.282,"Contact Quality":450,"Interpolated":false,"AF3":3948.718,"AF4":3981.538}
 {"Type":"EEG","Counter":98,"T7":5288.205,"T8":4618.974,"Time":1.7400957796185E9,"Pz":4242.564,"Contact Quality":450,"Interpolated":false,"AF3":3969.231,"AF4":3994.872}
@@ -7962,8 +7950,6 @@
 {"Type":"EEG","Counter":33,"T7":4106.667,"T8":3629.231,"Time":1.7400957831407E9,"Pz":4115.385,"Contact Quality":0,"Interpolated":false,"AF3":3751.795,"AF4":3582.564}
 {"Type":"EEG","Counter":34,"T7":4102.564,"T8":3618.974,"Time":1.7400957831485E9,"Pz":4085.128,"Contact Quality":0,"Interpolated":false,"AF3":3753.846,"AF4":3592.821}
 {"Type":"FACE","powerUpperFace":0.051567,"actionEye":"neutral","actionUpperFace":"frown","time":1.7400957832501E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
-{"Active Interest":"false","Time":"1740095783.2816","Active Relaxation":"false","Timestamp":"2025-02-20 15:56:23.281","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400957832816E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400957832816E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":86,"time":1.7400957832894E9,"qualityPerSensor":[0,2,4,0,0],"batteryLevel":4}
 {"Type":"EEG","Counter":35,"T7":4069.744,"T8":3616.923,"Time":1.7400957831563E9,"Pz":4080.513,"Contact Quality":0,"Interpolated":false,"AF3":3773.846,"AF4":3616.41}
 {"Type":"EEG","Counter":36,"T7":4082.051,"T8":3636.41,"Time":1.7400957831641E9,"Pz":4116.923,"Contact Quality":0,"Interpolated":false,"AF3":3797.949,"AF4":3622.051}
@@ -22237,8 +22223,6 @@
 {"Type":"EEG","Counter":33,"T7":3318.974,"T8":4993.846,"Time":1.7400958698862E9,"Pz":4186.667,"Contact Quality":0,"Interpolated":false,"AF3":5979.487,"AF4":4531.282}
 {"Type":"FACE","powerUpperFace":0.029834,"actionEye":"neutral","actionUpperFace":"surprise","time":1.7400958699644E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
 {"Type":"FACE","powerUpperFace":0.029834,"actionEye":"neutral","actionUpperFace":"surprise","time":1.7400958699963E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
-{"Active Interest":"false","Time":"1740095870.0276","Active Relaxation":"false","Timestamp":"2025-02-20 15:57:50.027","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400958700276E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400958700276E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":82,"time":1.7400958700276E9,"qualityPerSensor":[0,0,0,0,0],"batteryLevel":4}
 {"Type":"EEG","Counter":34,"T7":3392.821,"T8":4869.231,"Time":1.7400958698939E9,"Pz":4251.282,"Contact Quality":0,"Interpolated":false,"AF3":5897.436,"AF4":4376.923}
 {"Type":"EEG","Counter":35,"T7":3200,"T8":4675.385,"Time":1.7400958699017E9,"Pz":4204.615,"Contact Quality":0,"Interpolated":false,"AF3":5576.923,"AF4":4144.615}
@@ -22319,8 +22303,6 @@
 {"Type":"FACE","powerUpperFace":0.031411,"actionEye":"neutral","actionUpperFace":"surprise","time":1.7400958704381E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
 {"Type":"FACE","powerUpperFace":0.031411,"actionEye":"neutral","actionUpperFace":"surprise","time":1.74009587047E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
 {"Type":"FACE","powerUpperFace":0.031411,"actionEye":"neutral","actionUpperFace":"surprise","time":1.7400958705017E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
-{"Active Interest":"false","Time":"1740095870.533","Active Relaxation":"false","Timestamp":"2025-02-20 15:57:50.533","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.740095870533E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.740095870533E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":82,"time":1.7400958705486E9,"qualityPerSensor":[0,0,0,0,0],"batteryLevel":4}
 {"Type":"FACE","powerUpperFace":0.03993,"actionEye":"neutral","actionUpperFace":"surprise","time":1.740095870533E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
 {"Type":"EEG","Counter":97,"T7":5333.333,"T8":6560,"Time":1.7400958703902E9,"Pz":4186.667,"Contact Quality":450,"Interpolated":false,"AF3":6683.077,"AF4":6466.154}
@@ -22404,8 +22386,6 @@
 {"Type":"EEG","Counter":33,"T7":5066.667,"T8":5523.59,"Time":1.7400958708967E9,"Pz":4220,"Contact Quality":0,"Interpolated":false,"AF3":5390.256,"AF4":5994.872}
 {"Type":"EEG","Counter":34,"T7":5136.41,"T8":5383.59,"Time":1.7400958709045E9,"Pz":4171.282,"Contact Quality":0,"Interpolated":false,"AF3":5157.436,"AF4":6078.974}
 {"Type":"FACE","powerUpperFace":0.080311,"actionEye":"neutral","actionUpperFace":"surprise","time":1.7400958710074E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
-{"Active Interest":"false","Time":"1740095871.0389","Active Relaxation":"false","Timestamp":"2025-02-20 15:57:51.038","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400958710389E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400958710389E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":82,"time":1.7400958710467E9,"qualityPerSensor":[0,1,0,1,0],"batteryLevel":4}
 {"Type":"EEG","Counter":35,"T7":5335.385,"T8":5446.154,"Time":1.7400958709125E9,"Pz":4163.59,"Contact Quality":0,"Interpolated":false,"AF3":5220,"AF4":6152.821}
 {"Type":"EEG","Counter":36,"T7":5803.077,"T8":5562.564,"Time":1.7400958709204E9,"Pz":4162.564,"Contact Quality":0,"Interpolated":false,"AF3":5593.333,"AF4":6531.795}
@@ -22489,8 +22469,6 @@
 {"Type":"EEG","Counter":99,"T7":4685.128,"T8":4531.795,"Time":1.7400958714163E9,"Pz":4307.692,"Contact Quality":0,"Interpolated":false,"AF3":5079.487,"AF4":4594.872}
 {"Type":"EEG","Counter":100,"T7":4921.026,"T8":4582.051,"Time":1.7400958714243E9,"Pz":4221.026,"Contact Quality":450,"Interpolated":false,"AF3":5476.41,"AF4":4770.256}
 {"Type":"FACE","powerUpperFace":0.342233,"actionEye":"neutral","actionUpperFace":"surprise","time":1.7400958715099E9,"powerLowerFace":0,"actionLowerFace":"neutral"}
-{"Active Interest":"false","Time":"1740095871.5416","Active Relaxation":"false","Timestamp":"2025-02-20 15:57:51.541","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400958715416E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400958715416E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":82,"time":1.7400958715416E9,"qualityPerSensor":[0,4,0,0,0],"batteryLevel":4}
 {"Type":"EEG","Counter":101,"T7":4955.897,"T8":4594.359,"Time":1.7400958714321E9,"Pz":4307.179,"Contact Quality":450,"Interpolated":false,"AF3":5610.256,"AF4":4743.59}
 {"Type":"EEG","Counter":102,"T7":5206.154,"T8":4866.154,"Time":1.7400958714399E9,"Pz":4436.923,"Contact Quality":450,"Interpolated":false,"AF3":6138.974,"AF4":5041.538}
@@ -22571,8 +22549,6 @@
 {"Type":"EEG","Counter":33,"T7":6008.205,"T8":6656.41,"Time":1.7400958719031E9,"Pz":4373.333,"Contact Quality":0,"Interpolated":false,"AF3":6774.872,"AF4":7223.59}
 {"Type":"EEG","Counter":34,"T7":5889.231,"T8":6470.256,"Time":1.7400958719109E9,"Pz":4295.385,"Contact Quality":0,"Interpolated":false,"AF3":6580,"AF4":6940}
 {"Type":"EEG","Counter":35,"T7":6028.718,"T8":6511.795,"Time":1.7400958719189E9,"Pz":4383.59,"Contact Quality":0,"Interpolated":false,"AF3":6639.487,"AF4":6764.103}
-{"Active Interest":"false","Time":"1740095872.0454","Active Relaxation":"false","Timestamp":"2025-02-20 15:57:52.045","Stress":"-1","Attention or Focus":"-1","Interest":"-1","Engagement":"-1","Relaxation":"-1","Type":"AFFECT","Active Attention or Focus":"false","Active Engagement":"false","Active Excitement":"false","Active Stress":"false","time":1.7400958720454E9,"Excitement":"-1"}
-{"P":0,"A":0,"Type":"PAD","D":0,"time":1.7400958720454E9}
 {"wirelessSignal":1,"qualityOverall":0,"Type":"DEVICE","batteryPercent":82,"time":1.7400958720611E9,"qualityPerSensor":[0,0,0,0,0],"batteryLevel":4}
 {"Type":"EEG","Counter":36,"T7":6240,"T8":6677.436,"Time":1.7400958719267E9,"Pz":4430.769,"Contact Quality":0,"Interpolated":false,"AF3":6596.923,"AF4":6737.949}
 {"Type":"EEG","Counter":37,"T7":6090.256,"T8":6670.256,"Time":1.7400958719346E9,"Pz":4309.231,"Contact Quality":0,"Interpolated":false,"AF3":6314.872,"AF4":6735.385}
